@@ -3,7 +3,8 @@
 """
 Created on Thu Nov 23 18:34:05 2023
 
-@author: diogopessoa
+@author: [@fabioacl], [@PFranciscoValente], [@DiogoMPessoa], [@Julio-CMedeiros].
+
 """
 
 # Libraries
